@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+          "id": 1,
+          "text": "Haustür",
+          "amount": 2
+        },
+        {
+          "id": 2,
+          "text": "Räder",
+          "amount": 2
+        },
+        {
+          "id": 3,
+          "text": "Hauptstrasse",
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "text": "Kilometer",
+          "amount": 2
+        },
+        {
+          "id": 5,
+          "text": "Parkplatz suchen",
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "text": "Schritte",
+          "amount": 126
+        }
+      ]
+}

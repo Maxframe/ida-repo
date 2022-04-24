@@ -1,10 +1,14 @@
 import Link from "next/link";
+import Head from "next/head";
 import NavigationProcess from "../../components/NavigationProcess";
 
 
 export default function ProcessPage() {
   return (
     <>
+      <Head>
+        <title>wax werner | process</title>
+      </Head>
       <NavigationProcess />
       <div className="flex flex-wrap max-w-md m-auto justify-between gap-12 mt-4 select-none">
         <ul className="mx-6">

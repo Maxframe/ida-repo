@@ -1,12 +1,19 @@
 
 ## Getting Started locally
 
-First, run the development server:
+First, install all the required dependencies:
+
+```bash
+npm install
+```
+
+Then run the development server:
+
 
 ```bash
 npm run dev
 ```
 
-## Netlify
+## Also available online on Netlify
 
 https://ida-mw.netlify.app/

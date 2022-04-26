@@ -7,7 +7,7 @@ export default function ProcessPage() {
   return (
     <>
       <Head>
-        <title>wax werner | process</title>
+        <title>max werner | process</title>
       </Head>
       <NavigationProcess />
       <div className="flex flex-wrap max-w-md m-auto justify-between gap-12 mt-4 select-none">

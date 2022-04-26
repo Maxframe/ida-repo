@@ -26,7 +26,7 @@ export default function ProcessPage() {
         </ul>
         <ul className="mx-6">
           <li>------------ru-----</li>
-          <li>-------------------</li>
+          <Link href="/process/w2-tue">Week 2 | Tuesday</Link>
           <li>-------------------</li>
           <li>-------------------</li>
           <li>-------------------</li>

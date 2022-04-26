@@ -30,6 +30,7 @@ export default function ProcessDay(props) {
       link: "day5",
       image: "w1-fri-5",
     },
+    /* */
     {
       day: "Saturday",
       link: "day6",

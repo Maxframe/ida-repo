@@ -10,7 +10,8 @@ export default function ProcessPage() {
         <title>max werner | process</title>
       </Head>
       <NavigationProcess />
-      <div className="flex flex-wrap max-w-md m-auto justify-between gap-12 mt-4 select-none">
+      <div className="absolute w-screen h-screen flex items-center   justify-center">
+      <div className="flex flex-wrap max-w-md justify-between gap-12 mt-4 select-none">
         <ul className="mx-6">
           <li>-------------------</li>
           <li>
@@ -73,6 +74,7 @@ export default function ProcessPage() {
           <li>-------------------</li>
           <li>-------------------</li>
         </ul>
+      </div>
       </div>
     </>
   );

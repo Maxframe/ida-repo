@@ -8,7 +8,8 @@ export default function ProcessDay() {
     <>
       <NavigationProcessDay pageTitle={"Week 2 | Tuesday"} />
       <div className=" w-[700px] m-auto text-justify py-12">
-        <h1 className="font-bold text-2xl">Noumenon von Laura Gyr</h1>
+        <h1 className="font-bold text-9xl">Noumenon</h1>
+        <h2 className="font-bold text-3xl">von Laura Gyr</h2>
         <div className="h-4"></div>
         <Image src={`/w2-tue-1.jpg`} height="606" width="429" alt="Noumenon" layout="responsive"/>
         <p className="pt-4 leading-loose">Jeder Mensch hat seinen persönlichen, unverwechselbaren Charakter. Dieses Projekt von Laura Gyr ist ein Versuch, die verschiedenen individuellen Charakterzüge eines Menschen hervorzubringen und mit Farben und Formen visuell darzustellen. Anhand der Antworten eines kurzen Fragebogens erkennt der Algorithmus gewisse Tendenzen zu bestimmten Charakterzügen und passt entsprechend in Echtzeit die Illustration an. Die DI Alumni <a className="underline" href="https://lauragyr.ch/" target="_blank" rel="noreferrer">Laura Gyr</a> hat sich in ihrer Bachelorarbeit mit der Psychoanalyse in interaktiven Installationen befasst und als Teil davon dieses Projekt erstellt. Das Projekt wurde ausserdem für den Alumni Award der HSLU nominiert und 2019 auf der Design Biennale in Zürich ausgestellt, wo man sich anschliessend das Bild herunterladen oder auch direkt drucken lassen konnte, um es mit nach Hause zu nehmen. </p>

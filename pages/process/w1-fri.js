@@ -30,7 +30,6 @@ export default function ProcessDay(props) {
       link: "day5",
       image: "w1-fri-5",
     },
-    /* */
     {
       day: "Saturday",
       link: "day6",
@@ -43,7 +42,7 @@ export default function ProcessDay(props) {
     },
   ];
   const dayNavigation = data.map((weekday, index) => (
-    <div className="  block group w-32" key={index}>
+    <div className="block group w-32" key={index}>
       <a
         className="relative inline-block focus:outline-none focus:ring w-32 text-center"
         href={`#${weekday.link}`}
